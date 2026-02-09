@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;AI+%26+Deep+Learning;MLOps+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/techn4r)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ssivitsky)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stepan.sivitsky@yandex.ru)
 [![ITMO](https://img.shields.io/badge/ITMO-University-0066CC?style=for-the-badge&logo=graduation-cap&logoColor=white)](#)
 
@@ -138,12 +138,12 @@ print(me.current_focus())
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssivitskiy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssivitskiy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssivitsky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssivitsky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&border_radius=10"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssivitskiy&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&border_radius=10" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssivitsky&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&border_radius=10" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssivitskiy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&border_radius=10" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssivitsky&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&border_radius=10" alt="Activity Graph"/>
 
 </div>
 
@@ -186,7 +186,7 @@ print(me.current_focus())
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=ssivitskiy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ssivitsky&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 
 </div>
 
@@ -218,7 +218,7 @@ print(me.current_focus())
 
 ## 💬 Let's Connect
 
-<a href="https://t.me/techn4r">
+<a href="https://t.me/ssivitsky">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="mailto:stepan.sivitsky@yandex.ru">
@@ -237,7 +237,7 @@ print(me.current_focus())
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=techn4r&label=Profile%20Views&color=00F7F7&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ssivitsky&label=Profile%20Views&color=00F7F7&style=for-the-badge" alt="Profile Views"/>
 
 ### 💡 *"The best way to predict the future is to invent it."*
 
