@@ -2,13 +2,17 @@
 
 # Hi, I'm Stepan Sivitskii 👋
 
-### ML/AI Engineer · Software Engineering Student
+### .NET Backend Developer · Software Engineering Student
 
-I build practical machine-learning products, developer tools, and reliable backend systems.
+I build reliable APIs, domain-driven systems, and deterministic CLI tools with C# and .NET 9.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssivitskiy)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ssivitskiy)
-[![Email](https://img.shields.io/badge/Email-0B7285?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:stepan.sivitsky@yandex.ru)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET 9](https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssivitskiy)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ssivitskiy)
+[![Email](https://img.shields.io/badge/Email-0B7285?style=flat-square&logo=maildotru&logoColor=white)](mailto:stepan.sivitsky@yandex.ru)
 
 </div>
 
@@ -16,87 +20,95 @@ I build practical machine-learning products, developer tools, and reliable backe
 
 - 🎓 Studying Software Engineering at **ITMO University** (2024–2028)
 - 📍 Based in Saint Petersburg, Russia
-- 🔬 Turning ML experiments into testable applications and services
-- 🧩 Exploring LLM-assisted engineering, computer vision, and production ML workflows
-- ⚙️ Building deterministic backend and CLI systems with modern .NET
+- 🧱 Designing explicit domain models and dependency boundaries
+- 🔐 Building authenticated APIs with validation, authorization, and safe failure modes
+- ⚙️ Working with transactions, background processing, concurrency, and deterministic testing
+- 🤖 Bringing an ML/AI background to production-oriented software engineering
 
-## Featured projects
+## What I build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [⚡ VibroLab](https://github.com/ssivitskii/VibroLab)
+### 🌐 Backend APIs
 
-A virtual laboratory for gearbox vibration diagnostics: signal feature extraction, ML inference, a FastAPI backend, and an interactive Three.js simulator.
+ASP.NET Core services with clear HTTP contracts, authentication and authorization, validation, structured errors, health checks, and API documentation.
 
-`Python` `scikit-learn` `FastAPI` `Three.js` `Docker`
+`ASP.NET Core` `REST` `JWT` `OpenAPI`
 
 </td>
 <td width="50%" valign="top">
 
-### [🛡️ FraudGuard](https://github.com/ssivitskii/FraudGuard)
+### 🗄️ Data & consistency
 
-An end-to-end fraud-detection workflow for imbalanced transaction data, with training and evaluation tools, a Streamlit interface, tests, and Docker support.
+Persistence layers and business operations designed around explicit transactions, concurrency control, idempotency, and predictable failure behavior.
 
-`Python` `scikit-learn` `Streamlit` `pytest` `Docker`
+`EF Core` `PostgreSQL` `Transactions` `Idempotency`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [🔍 AI Code Reviewer](https://github.com/ssivitskii/ai-code-reviewer)
+### ⚙️ Async processing
 
-LLM-assisted code review focused on actionable bug, security, and refactoring feedback, with CLI, API, and GitHub Actions integration.
+Background services and asynchronous workflows with bounded queues, cancellation, retry policies, and observable execution state.
 
-`Python` `LLMs` `FastAPI` `GitHub Actions` `Docker`
+`Async/Await` `Channels` `BackgroundService` `HttpClientFactory`
 
 </td>
 <td width="50%" valign="top">
 
-### [🎬 Movie Recommender](https://github.com/ssivitskii/Movie-Recommender)
+### 🧰 Developer tools
 
-A hybrid recommendation system combining collaborative filtering, matrix factorization, and content signals, available through CLI and Streamlit.
+CLI applications and domain-focused tools with deterministic output, safe file operations, clear exit semantics, and automation-friendly formats.
 
-`Python` `SVD` `scikit-learn` `Pandas` `Streamlit`
+`.NET CLI` `System.IO` `System.Text.Json` `Automation`
 
 </td>
 </tr>
 </table>
 
-## Toolbox
+## .NET toolbox
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square)
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-1F5E9C?style=flat-square&logo=testcontainers&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=222222)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
+`REST APIs` · `Clean Architecture` · `Domain Modeling` · `Async/Await` · `Transactions` · `Concurrency` · `Integration Testing` · `Docker Compose`
+
 ## Engineering principles
 
-- **Reproducibility** — explicit datasets, deterministic experiments, and documented evaluation
-- **Reliability** — validation, tests, observable behavior, and safe failure modes
-- **Useful delivery** — models connected to APIs, interfaces, automation, and deployment workflows
+- **Explicit contracts** — dedicated DTOs, validated inputs, and predictable error semantics
+- **Correctness first** — transactional boundaries, deterministic behavior, and regression tests
+- **Operational clarity** — structured logging, health checks, documented configuration, and safe defaults
+- **Maintainable design** — dependencies point inward and infrastructure stays behind interfaces
+
+## Beyond .NET
+
+My ML/AI work informs how I design data-heavy services and developer tooling:
+
+- [⚡ VibroLab](https://github.com/ssivitskii/VibroLab) — vibration diagnostics, FastAPI, scikit-learn, and Three.js
+- [🛡️ FraudGuard](https://github.com/ssivitskii/FraudGuard) — fraud-detection workflow for imbalanced transaction data
+- [🔍 AI Code Reviewer](https://github.com/ssivitskii/ai-code-reviewer) — LLM-assisted review through CLI, API, and GitHub Actions
+- [🎬 Movie Recommender](https://github.com/ssivitskii/Movie-Recommender) — hybrid recommendations with SVD and collaborative filtering
 
 ## Let's connect
 
-I'm open to collaboration on ML/AI products, developer tools, and backend engineering.
+I'm open to collaboration on .NET backend systems, developer tools, and applied ML products.
 
 - [LinkedIn](https://www.linkedin.com/in/ssivitskiy)
 - [Telegram](https://t.me/ssivitskiy)
@@ -104,6 +116,6 @@ I'm open to collaboration on ML/AI products, developer tools, and backend engine
 
 <div align="center">
 
-<sub>Build things that can be explained, tested, and improved.</sub>
+<sub>Explicit contracts. Deterministic tests. Observable behavior.</sub>
 
 </div>
