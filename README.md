@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ml-engineer-banner.svg" alt="Stepan Sivitskii — Machine Learning Engineer. NLP, LLMs and classical machine learning." width="100%">
+  <img src="assets/ml-engineer-banner.svg?v=nlp-llm" alt="Stepan Sivitskii — Machine Learning Engineer. NLP, LLMs and classical machine learning." width="100%">
 </p>
 
 <div align="center">
