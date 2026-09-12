@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
-<title id="title">Stepan Sivitskii — Machine Learning Engineer</title>
-<desc id="desc">From raw signals to intelligent applications. A dark blue banner with a turquoise signal flowing into a neural network.</desc>
+<title id="title">Stepan Sivitskii — NLP, LLMs and Classical Machine Learning</title>
+<desc id="desc">A dark blue banner with text tokens flowing into a neural network.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091321"/><stop offset="1" stop-color="#142640"/></linearGradient>
 <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
@@ -9,20 +9,20 @@
 <rect width="1280" height="400" rx="24" fill="url(#bg)"/>
 <rect width="1280" height="400" rx="24" fill="url(#grid)"/>
 <rect x="52" y="49" width="34" height="3" rx="1.5" fill="#5eead4"/>
-<text x="99" y="56" fill="#8ca7c4" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">APPLIED MACHINE LEARNING</text>
+<text x="99" y="56" fill="#8ca7c4" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">NLP / LLMs / CLASSICAL ML</text>
 <text x="52" y="142" fill="#f1f5f9" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="700" letter-spacing="-2">Stepan Sivitskii</text>
 <text x="54" y="196" fill="#5eead4" font-family="Arial,Helvetica,sans-serif" font-size="31">Machine Learning Engineer</text>
-<text x="54" y="245" fill="#a8b9cf" font-family="Arial,Helvetica,sans-serif" font-size="21">From raw signals to intelligent applications.</text>
+<text x="54" y="245" fill="#a8b9cf" font-family="Arial,Helvetica,sans-serif" font-size="21">NLP, LLMs and classical machine learning.</text>
 <rect x="54" y="301" width="568" height="1" fill="#304359"/>
-<text x="54" y="340" fill="#a8b9cf" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">SIGNALS / MODELS / SYSTEMS</text>
+<text x="54" y="340" fill="#a8b9cf" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">LANGUAGE / MODELS / APPLICATIONS</text>
 <g fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".35">
 <path d="M930 112L1028 83M930 112L1028 175M930 112L1028 268M930 203L1028 83M930 203L1028 175M930 203L1028 268M930 295L1028 83M930 295L1028 175M930 295L1028 268M1028 83L1142 135M1028 83L1142 238M1028 175L1142 135M1028 175L1142 238M1028 268L1142 135M1028 268L1142 238"/>
 </g>
-<path d="M719 204H746L758 186L771 223L786 159L801 248L816 118L831 280L846 177L861 215L876 204H901" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<g font-family="monospace" font-size="18" fill="#5eead4"><rect x="728" y="148" width="156" height="100" rx="12" fill="#142d3e" stroke="#3b6475"/><text x="748" y="180">[ text ]</text><text x="748" y="213">[context]</text></g>
 <g fill="#122d3a" stroke="#5eead4" stroke-width="2">
 <circle cx="930" cy="112" r="9"/><circle cx="930" cy="203" r="9"/><circle cx="930" cy="295" r="9"/>
 <circle cx="1028" cy="83" r="9"/><circle cx="1028" cy="175" r="9"/><circle cx="1028" cy="268" r="9"/>
 </g>
 <g fill="#242747" stroke="#a5b4fc" stroke-width="2"><circle cx="1142" cy="135" r="12"/><circle cx="1142" cy="238" r="12"/></g>
-<text x="778" y="343" fill="#6988a9" font-family="monospace" font-size="12" letter-spacing="2">DATA → FEATURES → INFERENCE</text>
+<text x="748" y="343" fill="#6988a9" font-family="monospace" font-size="12" letter-spacing="2">TEXT → MODELS → INTELLIGENCE</text>
 </svg>
