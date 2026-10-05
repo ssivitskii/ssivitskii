@@ -1,8 +1,8 @@
 <h1 align="center">Stepan Sivitskii</h1>
 
 <p align="center">
-  <strong>C# / .NET Backend Developer</strong><br>
-  Reliable APIs, concurrent workflows, and data-intensive systems with ASP.NET Core, EF Core, and PostgreSQL.
+  <strong>Software Developer · .NET Backend Focus</strong><br>
+  Backend systems, concurrent workflows, and full-stack products — currently focused on C# / .NET.
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ## About
 
-I am a backend-focused developer and ITMO University student. I build APIs and services where correctness matters: transactional updates, idempotent operations, concurrent processing, authorization, and integration testing.
+I am a software developer and ITMO University student, currently focused on backend development with C# / .NET. I build systems where correctness matters: transactional updates, idempotent operations, concurrent processing, authorization, and integration testing.
 
-My main stack is **C# / .NET, ASP.NET Core, EF Core, PostgreSQL, and Docker**. I also work with Angular on full-stack products and have practical experience with RAG/LLM experimentation from an ML internship at Yandex.
+My main stack is **C# / .NET, ASP.NET Core, EF Core, PostgreSQL, and Docker**. I also work with **Go, Java, C++, Python, and TypeScript**, build full-stack products with Angular, and have practical experience with RAG/LLM experimentation from an ML internship at Yandex.
 
 ## Experience
 
@@ -50,6 +50,7 @@ Neural distribution group, international search
 
 | Area | Technologies |
 |---|---|
+| Languages | C#, Go, Java, C++, Python, TypeScript |
 | Backend | C#, .NET 9/10, ASP.NET Core Web API, EF Core, LINQ, dependency injection, `BackgroundService`, `IHttpClientFactory` |
 | Data | PostgreSQL, SQL, Redis, Npgsql, migrations, transactions, isolation and row-level locking |
 | Testing | xUnit, WebApplicationFactory, Testcontainers, Playwright, unit/integration/E2E testing |
