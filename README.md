@@ -25,7 +25,7 @@ Neural distribution group, international search
 - Prepared data and reproducible experimental pipelines for RAG/LLM systems.
 - Analyzed model quality and failure cases and automated experiments.
 
-**Bon Voyage Travel — Full-stack Developer (.NET / Angular)** · Aug 2026 - Sep 2026
+**[Bon Voyage Travel](https://bonvoyagetravel.online) — Full-stack Developer (.NET / Angular)**
 
 - Built a passenger transportation platform with an ASP.NET Core 10 API, EF Core/PostgreSQL, an Angular 22 public site, and a CRM.
 - Implemented Identity, RBAC, audit, routes, trips, fleet and seat layouts, fares, search, seat holds, and booking workflows.
