@@ -12,7 +12,6 @@ Previously **Yandex · International Search**. ITMO University, BSc 2024–2028 
 My public work explores **search and ranking, recommendation systems, tabular ML,
 causal inference and scientific signals**. I care about meaningful baselines,
 data leakage, reproducible experiments and understanding where models fail.
-My software engineering background helps me turn experiments into usable tools.
 
 ## Experience
 
@@ -45,23 +44,6 @@ results await data access. [VibroLab](https://github.com/ssivitskii/VibroLab)
 examines vibration classification and the gap between random-window and
 operating-condition holdouts.
 
-## Toolkit
+## ML & Data
 
-**Modeling:** Python, NumPy, pandas, SciPy, scikit-learn, PyTorch,
-Sentence Transformers.<br>
-**Delivery:** FastAPI, Streamlit, PostgreSQL, Docker, GitHub Actions.
-
-<details>
-<summary><strong>Software engineering & open source</strong></summary>
-
-**[Bon Voyage Travel](https://bonvoyagetravel.online)** — full-stack development
-with ASP.NET Core, PostgreSQL and Angular: booking workflows, role-based access
-and transaction-safe seat reservations, with integration and E2E coverage.
-
-Selected contributions:
-
-- [NethermindEth/dotnet-libp2p #302](https://github.com/NethermindEth/dotnet-libp2p/pull/302) — Kad-DHT frame limits and regression coverage.
-- [microcks/microcks-testcontainers-dotnet #286](https://github.com/microcks/microcks-testcontainers-dotnet/pull/286) — ownership-aware Docker network disposal.
-- [Azure/bicep #20357](https://github.com/Azure/bicep/pull/20357) — diagnostics for multi-document YAML streams.
-
-</details>
+Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, Sentence Transformers.
