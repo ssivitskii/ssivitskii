@@ -8,8 +8,10 @@
 
 <p align="center">
   <a href="#user-content-about">About</a> &nbsp;·&nbsp;
+  <a href="#user-content-current-focus">Focus</a> &nbsp;·&nbsp;
   <a href="#user-content-selected-work">Projects</a> &nbsp;·&nbsp;
   <a href="#user-content-open-source">Open source</a> &nbsp;·&nbsp;
+  <a href="#user-content-mlds-stack">Stack</a> &nbsp;·&nbsp;
   <a href="#user-content-contact">Contact</a>
 </p>
 
@@ -21,6 +23,15 @@ an emphasis on meaningful baselines, careful validation and understanding model 
 
 Previously **ML Developer Intern at Yandex · International Search**, working on
 RAG/LLM experiments and evaluation. **ITMO University**, BSc 2024–2028 (expected).
+
+## Current focus
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/focus/dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/focus/light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/focus/dark.svg">
+  <img src="assets/focus/light.svg" width="100%" alt="Current focus — At work: Automated Moderation at Avito, Platform &amp; Core. Public projects: Search &amp; Ranking. Research: Scientific ML, atomic spectra and instrument shift.">
+</picture>
 
 ## Selected work
 
@@ -75,10 +86,19 @@ Evaluation details: [Search & Ranking](https://github.com/ssivitskii/ds-bootcamp
 — proposed fix for cluster fold counts with externally supplied sample splits.
 Pull request open as of October 2026.
 
-## Toolkit
+<a id="toolkit"></a>
 
-**ML & data** · Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, Sentence Transformers.<br>
-**Delivery** · FastAPI, Streamlit, PostgreSQL, Docker, GitHub Actions.
+## ML/DS stack
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack/dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/stack/light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack/dark.svg">
+  <img src="assets/stack/light.svg" width="100%" alt="ML/DS stack: Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, FastAPI and Streamlit.">
+</picture>
+
+**NLP** · Sentence Transformers.<br>
+**Infrastructure** · PostgreSQL, Docker, GitHub Actions.
 
 <sub>Public projects are personal work. Reported results belong to the linked datasets and evaluation protocols.</sub>
 

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+<title id="title">Current focus</title><desc id="desc">At work: Automated Moderation, Platform &amp; Core, Avito. Public projects: search, retrieval, reranking and offline evaluation. Research: atomic spectra, instrument shift and transfer.</desc>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<rect x="1" y="1" width="382" height="208" rx="16" fill="#111F1A" stroke="#2A493B"/>
+<g transform="translate(24 26) scale(0.8)" fill="none" stroke="#69DDA7" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"><path d="M24 3L41 10V23C41 33 34 40 24 45C14 40 7 33 7 23V10Z"/><path d="M15 23L21 29L33 17"/></g>
+<text x="80" y="51" font-size="14" fill="#69DDA7" font-weight="700" letter-spacing="1.5">AT WORK</text>
+<text x="24" y="115" font-size="28" fill="#E5F7ED" font-weight="700" letter-spacing="-.5">Automated Moderation</text>
+<text x="24" y="156" font-size="20" fill="#A6C5B5" font-weight="400" >Platform &amp; Core</text>
+<text x="24" y="184" font-size="20" fill="#A6C5B5" font-weight="400" >Avito</text>
+<rect x="409" y="1" width="382" height="208" rx="16" fill="#101F30" stroke="#2B4765"/>
+<g transform="translate(432 26) scale(0.8)" fill="none" stroke="#77B7FF" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="17" cy="17" r="12"/><path d="M26 26L43 43M34 7H44M36 14H44M37 21H44"/></g>
+<text x="488" y="51" font-size="14" fill="#77B7FF" font-weight="700" letter-spacing="1.5">PUBLIC PROJECTS</text>
+<text x="432" y="115" font-size="28" fill="#ECF5FF" font-weight="700" letter-spacing="-.5">Search &amp; Ranking</text>
+<text x="432" y="156" font-size="20" fill="#A8BDD4" font-weight="400" >Retrieval and reranking</text>
+<text x="432" y="184" font-size="20" fill="#A8BDD4" font-weight="400" >Careful offline evaluation</text>
+<rect x="817" y="1" width="382" height="208" rx="16" fill="#1C152D" stroke="#49365F"/>
+<g transform="translate(840 26) scale(0.8)" fill="none" stroke="#C09AFF" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 40H45M4 35H10L15 14L20 35H25L31 4L36 35H44"/></g>
+<text x="896" y="51" font-size="14" fill="#C09AFF" font-weight="700" letter-spacing="1.5">RESEARCH</text>
+<text x="840" y="115" font-size="28" fill="#F5EEFF" font-weight="700" letter-spacing="-.5">Scientific ML</text>
+<text x="840" y="156" font-size="20" fill="#C3B1DC" font-weight="400" >Atomic spectra</text>
+<text x="840" y="184" font-size="20" fill="#C3B1DC" font-weight="400" >Instrument shift and transfer</text>
+</g></svg>
