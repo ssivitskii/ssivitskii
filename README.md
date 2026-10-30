@@ -83,8 +83,8 @@ Evaluation details: [Search & Ranking](https://github.com/ssivitskii/ds-bootcamp
 ## Open source
 
 [DoubleML #422](https://github.com/DoubleML/doubleml-for-py/pull/422)
-— proposed fix for cluster fold counts with externally supplied sample splits.
-Pull request open as of October 2026.
+— fixed cluster fold counts with externally supplied sample splits.
+**Merged on October 30, 2026.**
 
 <a id="toolkit"></a>
 
