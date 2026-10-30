@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Stepan Sivitskii — Data Scientist at Avito</title>
+<desc id="desc">Platform &amp; Core | Automated Moderation. Four Avito circles: small purple and blue above, green and red below.</desc>
+<rect width="1200" height="360" rx="24" fill="#F8FAFC"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+<text x="48" y="57" fill="#526174" font-size="14" font-weight="700" letter-spacing="3">DATA SCIENCE / APPLIED ML</text>
+<text x="45" y="142" fill="#172132" font-size="65" font-weight="750" letter-spacing="-2.8">Stepan Sivitskii</text>
+<text x="48" y="196" fill="#172132" font-size="28" font-weight="600">Data Scientist @ Avito</text>
+<text x="48" y="235" fill="#526174" font-size="22">Platform &amp; Core | Automated Moderation</text>
+<path d="M48 272H742" stroke="#DCE3EC"/>
+<text x="48" y="310" fill="#526174" font-size="16" letter-spacing="0.35">Search &amp; ranking</text>
+<circle cx="216" cy="304" r="3" fill="#00AAFF"/>
+<text x="235" y="310" fill="#526174" font-size="16" letter-spacing="0.35">Reliable evaluation</text>
+<circle cx="412" cy="304" r="3" fill="#97CF26"/>
+<text x="431" y="310" fill="#526174" font-size="16" letter-spacing="0.35">Applied research</text>
+</g>
+<g transform="translate(850 20) scale(4)">
+<circle cx="36" cy="27" r="5.7" fill="#965EEB"/>
+<circle cx="55.5" cy="30" r="12" fill="#00AAFF"/>
+<circle cx="32.5" cy="49.5" r="14.7" fill="#04E061"/>
+<circle cx="59" cy="53.5" r="9" fill="#FF4053"/>
+</g>
+</svg>
