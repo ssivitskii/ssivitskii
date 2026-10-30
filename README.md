@@ -49,7 +49,7 @@ RAG/LLM experiments and evaluation. **ITMO University**, BSc 2024–2028 (expect
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/fraud-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="assets/projects/fraud-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/projects/fraud-dark.svg">
-    <img src="assets/projects/fraud-light.svg" width="100%" alt="FraudGuard: 87.0% Recall at a 1% review budget. 67 / 77 fraud cases · chronological ULB test. 602 transactions reviewed. Average precision 0.751; results belong to this held-out split.">
+    <img src="assets/projects/fraud-light.svg" width="100%" alt="FraudGuard: 0.6634 average precision on the Elliptic test versus 0.6337 for the local baseline. Offline AML on completed Bitcoin graph snapshots, test steps 40–49. At a 1% review budget on the labelled cohort, all variants find 112 of 636 illicit cases.">
   </picture>
 </a>
 
@@ -71,7 +71,7 @@ RAG/LLM experiments and evaluation. **ITMO University**, BSc 2024–2028 (expect
   </picture>
 </a>
 
-Evaluation details: [Search & Ranking](https://github.com/ssivitskii/ds-bootcamp-avito/blob/main/docs/experiment-log.md) · [FraudGuard](https://github.com/ssivitskii/FraudGuard/blob/main/reports/creditcard.json) · [SpectraLab](https://github.com/ssivitskii/SpectraLab/blob/main/docs/line_classifier_v1.md) · [Movie Recommender](https://github.com/ssivitskii/Movie-Recommender/blob/main/reports/temporal_ml100k.json).
+Evaluation details: [Search & Ranking](https://github.com/ssivitskii/ds-bootcamp-avito/blob/main/docs/experiment-log.md) · [FraudGuard · Elliptic](https://github.com/ssivitskii/FraudGuard/blob/main/reports/elliptic.json) · [SpectraLab](https://github.com/ssivitskii/SpectraLab/blob/main/docs/line_classifier_v1.md) · [Movie Recommender](https://github.com/ssivitskii/Movie-Recommender/blob/main/reports/temporal_ml100k.json).
 
 **More experiments** · [ExperimentLab](https://github.com/ssivitskii/experiment-lab)
 — causal inference and uplift; exploratory Criteo pilot ·

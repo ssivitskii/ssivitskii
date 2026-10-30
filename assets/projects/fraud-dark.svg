@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-<title id="title">FraudGuard — 87.0% Recall at a 1% review budget</title><desc id="desc">Rare-event detection with a review budget. 67 / 77 fraud cases · chronological ULB test. 602 transactions reviewed. Average precision 0.751; results belong to this held-out split.</desc>
+<title id="title">FraudGuard — 0.6634 average precision on the Elliptic test</title><desc id="desc">Offline AML on completed Bitcoin graph snapshots. Neighborhood features reach 0.6634 average precision versus 0.6337 for the local baseline on test steps 40–49. At a 1% review budget on the labelled cohort, all variants find 112 of 636 illicit cases.</desc>
 <rect x="1" y="1" width="1198" height="318" rx="20" fill="#241A12" stroke="#58412B"/>
 <rect x="1" y="39" width="4" height="242" rx="2" fill="#FFAF6A"/>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
-<text x="36" y="38" font-size="15" fill="#FFAF6A" font-weight="700" letter-spacing="1.5">02 / FRAUD DETECTION</text>
+<text x="36" y="38" font-size="15" fill="#FFAF6A" font-weight="700" letter-spacing="1.5">02 / FRAUD &amp; GRAPH AML</text>
 <text x="33" y="86" font-size="37" fill="#FFF1E1" font-weight="750" letter-spacing="-1">FraudGuard</text>
-<text x="36" y="122" font-size="22" fill="#D1B699" font-weight="400" >Rare-event detection with a review budget</text>
-<text x="36" y="154" font-size="18" fill="#D1B699" font-weight="400" >Logistic Regression / temporal validation</text>
+<text x="36" y="122" font-size="22" fill="#D1B699" font-weight="400" >Elliptic AML / graph features</text>
+<text x="36" y="154" font-size="18" fill="#D1B699" font-weight="400" >Gradient boosting / future-snapshot evaluation</text>
 <path d="M36 181H833" stroke="#58412B"/>
-<text x="33" y="241" font-size="57" fill="#FFF1E1" font-weight="750" letter-spacing="-2">87.0%</text>
-<text x="255" y="216" font-size="20" fill="#FFAF6A" font-weight="650" >Recall at a 1% review budget</text>
-<text x="255" y="246" font-size="18" fill="#D1B699" font-weight="400" >67 / 77 fraud cases · chronological ULB test</text>
-<text x="36" y="285" font-size="16" fill="#D1B699" font-weight="400" >602 transactions reviewed. Average precision 0.751; results belong to this held-out split.</text>
-<g transform="translate(877 29)"><rect width="286" height="222" rx="18" fill="#39291A"/><text x="20" y="31" font-size="13" fill="#D1B699" font-weight="700" letter-spacing="1.2">REVIEW ALLOCATION</text><path d="M32 66V170" stroke="#FFAF6A" stroke-width="2" opacity=".4"/><circle cx="32" cy="65" r="7" fill="#FFAF6A"/><text x="51" y="72" font-size="25" fill="#FFF1E1" font-weight="700" >60,140</text><text x="51" y="91" font-size="13" fill="#D1B699" font-weight="400" >test transactions</text><circle cx="32" cy="117" r="7" fill="#FFAF6A"/><text x="51" y="124" font-size="25" fill="#FFF1E1" font-weight="700" >602</text><text x="51" y="143" font-size="13" fill="#D1B699" font-weight="400" >reviewed at top 1%</text><circle cx="32" cy="169" r="7" fill="#FFAF6A"/><text x="51" y="176" font-size="25" fill="#FFF1E1" font-weight="700" >67</text><text x="51" y="195" font-size="13" fill="#D1B699" font-weight="400" >frauds found</text></g>
+<text x="33" y="241" font-size="57" fill="#FFF1E1" font-weight="750" letter-spacing="-2">0.6634</text>
+<text x="255" y="216" font-size="20" fill="#FFAF6A" font-weight="650" >Average precision · Elliptic test</text>
+<text x="255" y="246" font-size="18" fill="#D1B699" font-weight="400" >0.6337 local baseline · +0.0297 AP</text>
+<text x="36" y="285" font-size="16" fill="#D1B699" font-weight="400" >Offline completed snapshots · 1% review on labelled cohort: all variants find 112 / 636 illicit cases.</text>
+<g transform="translate(877 29)"><rect width="286" height="222" rx="18" fill="#39291A"/><text x="20" y="31" font-size="13" fill="#D1B699" font-weight="700" letter-spacing="1.2">AVERAGE PRECISION</text><text x="20" y="66" font-size="15" fill="#D1B699">Local baseline</text><text x="266" y="66" text-anchor="end" font-size="15" fill="#FFF1E1" font-weight="700">0.6337</text><rect x="20" y="78" width="223" height="12" rx="6" fill="#FFAF6A" opacity=".45"/><text x="20" y="125" font-size="15" fill="#D1B699">Neighborhood</text><text x="266" y="125" text-anchor="end" font-size="15" fill="#FFF1E1" font-weight="700">0.6634</text><rect x="20" y="137" width="233" height="12" rx="6" fill="#FFAF6A"/><text x="20" y="185" font-size="13" fill="#D1B699">Elliptic test · steps 40–49</text></g>
 <text x="1034" y="285" font-size="15" fill="#FFAF6A" font-weight="600" >Explore project ↗</text>
 </g></svg>
