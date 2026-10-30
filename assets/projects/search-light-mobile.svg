@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="440" viewBox="0 0 600 440" role="img" aria-labelledby="title desc">
+<title id="title">Search &amp; Ranking — 0.861 Recall@50</title><desc id="desc">Hybrid search for marketplace listings. 0.804 baseline · +5.69 percentage points. First dense model · 1,200 held-out queries. Later adaptive runs are reported separately.</desc>
+<rect x="1" y="1" width="598" height="438" rx="20" fill="#F5F9FF" stroke="#CADCF4"/>
+<rect x="1" y="39" width="4" height="362" rx="2" fill="#2164C5"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="32" y="38" font-size="16" fill="#2164C5" font-weight="700" letter-spacing="1">01 / INFORMATION RETRIEVAL</text>
+<text x="30" y="89" font-size="36" fill="#10243F" font-weight="750" letter-spacing="-1">Search &amp; Ranking</text>
+<text x="32" y="130" font-size="21" fill="#48627C" font-weight="400" >Hybrid search for marketplace listings</text>
+<text x="32" y="165" font-size="18" fill="#48627C" font-weight="400" >TF-IDF / RuBERT / learned reranking</text>
+<path d="M32 187H568" stroke="#CADCF4"/>
+<text x="30" y="247" font-size="58" fill="#10243F" font-weight="750" letter-spacing="-2">0.861</text>
+<text x="32" y="285" font-size="22" fill="#2164C5" font-weight="650" >Recall@50</text>
+<text x="32" y="319" font-size="19" fill="#48627C" font-weight="400" >0.804 baseline · +5.69 percentage points</text>
+<text x="32" y="355" font-size="17" fill="#48627C" font-weight="400" >First dense model · 1,200 held-out queries. Later adaptive</text>
+<text x="32" y="379" font-size="17" fill="#48627C" font-weight="400" >runs are reported separately.</text>
+<text x="32" y="412" font-size="17" fill="#2164C5" font-weight="600" >Explore project  ↗</text>
+</g></svg>

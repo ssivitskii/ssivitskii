@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="440" viewBox="0 0 600 440" role="img" aria-labelledby="title desc">
+<title id="title">FraudGuard — 87.0% Recall at a 1% review budget</title><desc id="desc">Rare-event detection with a review budget. 67 / 77 fraud cases · chronological ULB test. 602 transactions reviewed. Average precision 0.751; results belong to this held-out split.</desc>
+<rect x="1" y="1" width="598" height="438" rx="20" fill="#241A12" stroke="#58412B"/>
+<rect x="1" y="39" width="4" height="362" rx="2" fill="#FFAF6A"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="32" y="38" font-size="16" fill="#FFAF6A" font-weight="700" letter-spacing="1">02 / FRAUD DETECTION</text>
+<text x="30" y="89" font-size="36" fill="#FFF1E1" font-weight="750" letter-spacing="-1">FraudGuard</text>
+<text x="32" y="130" font-size="21" fill="#D1B699" font-weight="400" >Rare-event detection with a review budget</text>
+<text x="32" y="165" font-size="18" fill="#D1B699" font-weight="400" >Logistic Regression / temporal validation</text>
+<path d="M32 187H568" stroke="#58412B"/>
+<text x="30" y="247" font-size="58" fill="#FFF1E1" font-weight="750" letter-spacing="-2">87.0%</text>
+<text x="32" y="285" font-size="22" fill="#FFAF6A" font-weight="650" >Recall at a 1% review budget</text>
+<text x="32" y="319" font-size="19" fill="#D1B699" font-weight="400" >67 / 77 fraud cases · chronological ULB test</text>
+<text x="32" y="355" font-size="17" fill="#D1B699" font-weight="400" >602 transactions reviewed. Average precision 0.751; results</text>
+<text x="32" y="379" font-size="17" fill="#D1B699" font-weight="400" >belong to this held-out split.</text>
+<text x="32" y="412" font-size="17" fill="#FFAF6A" font-weight="600" >Explore project  ↗</text>
+</g></svg>

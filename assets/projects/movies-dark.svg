@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Movie Recommender — 17.0% Catalog coverage@10 · sparse SVD</title><desc id="desc">Finding the next film from past interactions. NDCG@10 0.277 · MovieLens 100K. Future-time holdout. Single-split offline results; no claim of online engagement lift.</desc>
+<rect x="1" y="1" width="1198" height="318" rx="20" fill="#201E18" stroke="#514830"/>
+<rect x="1" y="39" width="4" height="242" rx="2" fill="#E4BF68"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="36" y="38" font-size="15" fill="#E4BF68" font-weight="700" letter-spacing="1.5">04 / RECOMMENDER SYSTEMS</text>
+<text x="33" y="86" font-size="37" fill="#FAF5E5" font-weight="750" letter-spacing="-1">Movie Recommender</text>
+<text x="36" y="122" font-size="22" fill="#C6BA9A" font-weight="400" >Finding the next film from past interactions</text>
+<text x="36" y="154" font-size="18" fill="#C6BA9A" font-weight="400" >Popularity / item similarity / sparse SVD</text>
+<path d="M36 181H833" stroke="#514830"/>
+<text x="33" y="241" font-size="57" fill="#FAF5E5" font-weight="750" letter-spacing="-2">17.0%</text>
+<text x="255" y="216" font-size="20" fill="#E4BF68" font-weight="650" >Catalog coverage@10 · sparse SVD</text>
+<text x="255" y="246" font-size="18" fill="#C6BA9A" font-weight="400" >NDCG@10 0.277 · MovieLens 100K</text>
+<text x="36" y="285" font-size="16" fill="#C6BA9A" font-weight="400" >Future-time holdout. Single-split offline results; no claim of online engagement lift.</text>
+<g transform="translate(877 29)"><rect width="286" height="222" rx="18" fill="#333022"/><text x="20" y="31" font-size="12" fill="#C6BA9A" font-weight="700" letter-spacing=".7">DISCOVER YOUR NEXT FILM</text><rect x="20" y="72" width="64" height="108" rx="9" fill="#E4BF68" opacity="0.35"/><path d="M42 106L64 121L42 136Z" fill="#201E18"/><rect x="27" y="80" width="9" height="5" rx="1" fill="#201E18" opacity=".85"/><rect x="40" y="80" width="9" height="5" rx="1" fill="#201E18" opacity=".85"/><rect x="53" y="80" width="9" height="5" rx="1" fill="#201E18" opacity=".85"/><rect x="66" y="80" width="9" height="5" rx="1" fill="#201E18" opacity=".85"/><rect x="101" y="51" width="64" height="137" rx="9" fill="#E4BF68" opacity="1"/><path d="M123 85L145 100L123 115Z" fill="#201E18"/><rect x="108" y="59" width="9" height="5" rx="1" fill="#201E18" opacity=".85"/><rect x="121" y="59" width="9" height="5" rx="1" fill="#201E18" opacity=".85"/><rect x="134" y="59" width="9" height="5" rx="1" fill="#201E18" opacity=".85"/><rect x="147" y="59" width="9" height="5" rx="1" fill="#201E18" opacity=".85"/><rect x="182" y="72" width="64" height="108" rx="9" fill="#E4BF68" opacity="0.5"/><path d="M204 106L226 121L204 136Z" fill="#201E18"/><rect x="189" y="80" width="9" height="5" rx="1" fill="#201E18" opacity=".85"/><rect x="202" y="80" width="9" height="5" rx="1" fill="#201E18" opacity=".85"/><rect x="215" y="80" width="9" height="5" rx="1" fill="#201E18" opacity=".85"/><rect x="228" y="80" width="9" height="5" rx="1" fill="#201E18" opacity=".85"/><text x="20" y="209" font-size="10" fill="#C6BA9A" font-weight="600" letter-spacing=".5">RANKING / COVERAGE / COLD START</text></g>
+<text x="1034" y="285" font-size="15" fill="#E4BF68" font-weight="600" >Explore project ↗</text>
+</g></svg>

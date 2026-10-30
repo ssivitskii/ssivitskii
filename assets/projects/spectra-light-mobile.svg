@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="440" viewBox="0 0 600 440" role="img" aria-labelledby="title desc">
+<title id="title">SpectraLab — 0.994 Micro-F1 at 0.75 nm synthetic drift</title><desc id="desc">Atomic spectra, line features and instrument shift. 0.493 baseline · five matched seeds. Controlled synthetic study. Transfer to real instruments is evaluated separately.</desc>
+<rect x="1" y="1" width="598" height="438" rx="20" fill="#F8F5FF" stroke="#DDD0F1"/>
+<rect x="1" y="39" width="4" height="362" rx="2" fill="#7747CB"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="32" y="38" font-size="16" fill="#7747CB" font-weight="700" letter-spacing="1">03 / SCIENTIFIC MACHINE LEARNING</text>
+<text x="30" y="89" font-size="36" fill="#2D214F" font-weight="750" letter-spacing="-1">SpectraLab</text>
+<text x="32" y="130" font-size="21" fill="#65557E" font-weight="400" >Atomic spectra, line features and instrument shift</text>
+<text x="32" y="165" font-size="18" fill="#65557E" font-weight="400" >Physical simulation / classification / transfer</text>
+<path d="M32 187H568" stroke="#DDD0F1"/>
+<text x="30" y="247" font-size="58" fill="#2D214F" font-weight="750" letter-spacing="-2">0.994</text>
+<text x="32" y="285" font-size="22" fill="#7747CB" font-weight="650" >Micro-F1 at 0.75 nm synthetic drift</text>
+<text x="32" y="319" font-size="19" fill="#65557E" font-weight="400" >0.493 baseline · five matched seeds</text>
+<text x="32" y="355" font-size="17" fill="#65557E" font-weight="400" >Controlled synthetic study. Transfer to real instruments is</text>
+<text x="32" y="379" font-size="17" fill="#65557E" font-weight="400" >evaluated separately.</text>
+<text x="32" y="412" font-size="17" fill="#7747CB" font-weight="600" >Explore project  ↗</text>
+</g></svg>

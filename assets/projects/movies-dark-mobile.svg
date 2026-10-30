@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="440" viewBox="0 0 600 440" role="img" aria-labelledby="title desc">
+<title id="title">Movie Recommender — 17.0% Catalog coverage@10 · sparse SVD</title><desc id="desc">Finding the next film from past interactions. NDCG@10 0.277 · MovieLens 100K. Future-time holdout. Single-split offline results; no claim of online engagement lift.</desc>
+<rect x="1" y="1" width="598" height="438" rx="20" fill="#201E18" stroke="#514830"/>
+<rect x="1" y="39" width="4" height="362" rx="2" fill="#E4BF68"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="32" y="38" font-size="16" fill="#E4BF68" font-weight="700" letter-spacing="1">04 / RECOMMENDER SYSTEMS</text>
+<text x="30" y="89" font-size="36" fill="#FAF5E5" font-weight="750" letter-spacing="-1">Movie Recommender</text>
+<text x="32" y="130" font-size="21" fill="#C6BA9A" font-weight="400" >Finding the next film from past interactions</text>
+<text x="32" y="165" font-size="18" fill="#C6BA9A" font-weight="400" >Popularity / item similarity / sparse SVD</text>
+<path d="M32 187H568" stroke="#514830"/>
+<text x="30" y="247" font-size="58" fill="#FAF5E5" font-weight="750" letter-spacing="-2">17.0%</text>
+<text x="32" y="285" font-size="22" fill="#E4BF68" font-weight="650" >Catalog coverage@10 · sparse SVD</text>
+<text x="32" y="319" font-size="19" fill="#C6BA9A" font-weight="400" >NDCG@10 0.277 · MovieLens 100K</text>
+<text x="32" y="355" font-size="17" fill="#C6BA9A" font-weight="400" >Future-time holdout. Single-split offline results; no claim</text>
+<text x="32" y="379" font-size="17" fill="#C6BA9A" font-weight="400" >of online engagement lift.</text>
+<text x="32" y="412" font-size="17" fill="#E4BF68" font-weight="600" >Explore project  ↗</text>
+</g></svg>

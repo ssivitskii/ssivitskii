@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">SpectraLab — 0.994 Micro-F1 at 0.75 nm synthetic drift</title><desc id="desc">Atomic spectra, line features and instrument shift. 0.493 baseline · five matched seeds. Controlled synthetic study. Transfer to real instruments is evaluated separately.</desc>
+<rect x="1" y="1" width="1198" height="318" rx="20" fill="#1C152D" stroke="#49365F"/>
+<rect x="1" y="39" width="4" height="242" rx="2" fill="#C09AFF"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="36" y="38" font-size="15" fill="#C09AFF" font-weight="700" letter-spacing="1.5">03 / SCIENTIFIC MACHINE LEARNING</text>
+<text x="33" y="86" font-size="37" fill="#F5EEFF" font-weight="750" letter-spacing="-1">SpectraLab</text>
+<text x="36" y="122" font-size="22" fill="#C3B1DC" font-weight="400" >Atomic spectra, line features and instrument shift</text>
+<text x="36" y="154" font-size="18" fill="#C3B1DC" font-weight="400" >Physical simulation / classification / transfer</text>
+<path d="M36 181H833" stroke="#49365F"/>
+<text x="33" y="241" font-size="57" fill="#F5EEFF" font-weight="750" letter-spacing="-2">0.994</text>
+<text x="255" y="216" font-size="20" fill="#C09AFF" font-weight="650" >Micro-F1 at 0.75 nm synthetic drift</text>
+<text x="255" y="246" font-size="18" fill="#C3B1DC" font-weight="400" >0.493 baseline · five matched seeds</text>
+<text x="36" y="285" font-size="16" fill="#C3B1DC" font-weight="400" >Controlled synthetic study. Transfer to real instruments is evaluated separately.</text>
+<g transform="translate(877 29)"><rect width="286" height="222" rx="18" fill="#2D2243"/><text x="20" y="31" font-size="13" fill="#C3B1DC" font-weight="700" letter-spacing="1.2">SPECTRAL SIGNATURE</text><path d="M47 49V173" stroke="#49365F" stroke-width="1"/><path d="M95 49V173" stroke="#49365F" stroke-width="1"/><path d="M143 49V173" stroke="#49365F" stroke-width="1"/><path d="M191 49V173" stroke="#49365F" stroke-width="1"/><path d="M239 49V173" stroke="#49365F" stroke-width="1"/><path d="M20 172H265" stroke="#C3B1DC" opacity=".4"/><path d="M21 165L39 165L44 147L49 78L54 145L60 165L78 165L84 125L89 153L94 165L126 165L133 140L140 53L147 140L153 165L187 165L194 146L199 98L205 149L212 165L235 165L242 133L249 161L263 165" fill="none" stroke="#C09AFF" stroke-width="3.5" stroke-linejoin="round"/><text x="20" y="203" font-size="11" fill="#C3B1DC" font-weight="600" letter-spacing="1">ILLUSTRATIVE SIGNAL</text></g>
+<text x="1034" y="285" font-size="15" fill="#C09AFF" font-weight="600" >Explore project ↗</text>
+</g></svg>
