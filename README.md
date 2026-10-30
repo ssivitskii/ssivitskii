@@ -46,10 +46,10 @@ RAG/LLM experiments and evaluation. **ITMO University**, BSc 2024–2028 (expect
 
 <a href="https://github.com/ssivitskii/FraudGuard">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/fraud-dark-mobile.svg">
-    <source media="(max-width: 600px)" srcset="assets/projects/fraud-light-mobile.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/fraud-dark.svg">
-    <img src="assets/projects/fraud-light.svg" width="100%" alt="FraudGuard: 0.6634 average precision on the Elliptic test versus 0.6337 for the local baseline. Offline AML on completed Bitcoin graph snapshots, test steps 40–49. At a 1% review budget on the labelled cohort, all variants find 112 of 636 illicit cases.">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/fraud-dark-mobile.svg?v=elliptic-1">
+    <source media="(max-width: 600px)" srcset="assets/projects/fraud-light-mobile.svg?v=elliptic-1">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/fraud-dark.svg?v=elliptic-1">
+    <img src="assets/projects/fraud-light.svg?v=elliptic-1" width="100%" alt="FraudGuard: 0.6634 average precision on the Elliptic test versus 0.6337 for the local baseline. Offline AML on completed Bitcoin graph snapshots, test steps 40–49. At a 1% review budget on the labelled cohort, all variants find 112 of 636 illicit cases.">
   </picture>
 </a>
 
