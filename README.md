@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
@@ -5,10 +7,13 @@
 </picture>
 
 <p align="center">
-  <a href="mailto:ssivitskii@outlook.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://t.me/ssivitskii">Telegram</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ssivitskiy">LinkedIn</a>
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#selected-work">Projects</a> &nbsp;·&nbsp;
+  <a href="#open-source">Open source</a> &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
 </p>
+
+## About
 
 I work as a **Data Scientist at Avito**, in **Platform & Core | Automated Moderation**.
 My public projects explore search, ranking, classification and scientific ML — with
@@ -86,3 +91,23 @@ Pull request open as of October 2026.
 </picture>
 
 <sub>Updated daily · <a href="https://github.com/Platane/snk">Snake animation by Platane</a></sub>
+
+
+## Contact
+
+<a href="mailto:ssivitskii@outlook.com">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/contact/dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="assets/contact/light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contact/dark.svg">
+    <img src="assets/contact/light.svg" width="100%" alt="Contact Stepan Sivitskii — ML research, open source and project ideas. Email ssivitskii@outlook.com.">
+  </picture>
+</a>
+
+<p align="center">
+  <a href="mailto:ssivitskii@outlook.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://t.me/ssivitskii">Telegram</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ssivitskiy">LinkedIn</a>
+</p>
+
+<p align="center"><a href="#top">Back to top ↑</a></p>

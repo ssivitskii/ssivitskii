@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Contact Stepan Sivitskii</title>
+<desc id="desc">Let’s talk ML. ML research, open source and project ideas. Email ssivitskii@outlook.com.</desc>
+<rect x="1" y="1" width="1198" height="258" rx="22" fill="#F8FAFC" stroke="#DCE3EC"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="48" y="43" font-size="14" fill="#526174" font-weight="700" letter-spacing="2.5">GET IN TOUCH</text>
+<text x="46" y="115" font-size="58" fill="#172132" font-weight="750" letter-spacing="-1.8">Let’s talk ML.</text>
+<text x="48" y="159" font-size="23" fill="#526174" font-weight="400" >ML research, open source and project ideas.</text>
+<text x="48" y="216" font-size="21" fill="#526174" font-weight="400" >ssivitskii@outlook.com</text>
+<rect x="884" y="94" width="268" height="74" rx="14" fill="#215ECB"/>
+<g transform="translate(927 121)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="28" height="20" rx="4"/><path d="M2 3L14 12L26 3"/></g>
+<text x="972" y="139" font-size="26" fill="#FFFFFF" font-weight="650" >Email me</text>
+<text x="1107" y="139" font-size="25" fill="#FFFFFF" font-weight="600" >↗</text>
+</g></svg>
