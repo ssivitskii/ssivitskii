@@ -94,11 +94,12 @@ Evaluation details: [Search & Ranking](https://github.com/ssivitskii/ds-bootcamp
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack/dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/stack/light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack/dark.svg">
-  <img src="assets/stack/light.svg" width="100%" alt="ML/DS stack: Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, FastAPI and Streamlit.">
+  <img src="assets/stack/light.svg" width="100%" alt="ML/DS stack: Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, Hugging Face, Plotly, FastAPI, Streamlit, PostgreSQL and Docker.">
 </picture>
 
-**NLP** · Sentence Transformers.<br>
-**Infrastructure** · PostgreSQL, Docker, GitHub Actions.
+**NLP** · Transformers · Sentence Transformers.<br>
+**Visualization** · Matplotlib · Seaborn.<br>
+**Development** · Git · GitHub Actions · pytest.
 
 <sub>Public projects are personal work. Reported results belong to the linked datasets and evaluation protocols.</sub>
 
