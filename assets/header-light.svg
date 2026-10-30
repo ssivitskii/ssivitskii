@@ -1,6 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
 <title id="title">Stepan Sivitskii — Data Scientist at Avito</title>
 <desc id="desc">Platform &amp; Core | Automated Moderation. Four Avito circles: small purple and blue above, green and red below.</desc>
+<style>
+.avito-dot {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: avito-arrive .85s cubic-bezier(.22,1,.36,1) both,
+             avito-breathe 6.5s ease-in-out 1.6s infinite;
+}
+.avito-blue { animation-delay: .12s, 1.85s; }
+.avito-green { animation-delay: .24s, 2.1s; }
+.avito-red { animation-delay: .36s, 2.35s; }
+@keyframes avito-arrive {
+  from { opacity: 0; transform: translateY(5px) scale(.82); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+@keyframes avito-breathe {
+  0%, 100% { transform: translateY(0) scale(1); }
+  50% { transform: translateY(-.65px) scale(1.025); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .avito-dot { animation: none; }
+}
+</style>
 <rect width="1200" height="360" rx="24" fill="#F8FAFC"/>
 <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
 <text x="48" y="57" fill="#526174" font-size="14" font-weight="700" letter-spacing="3">DATA SCIENCE / APPLIED ML</text>
@@ -11,13 +33,13 @@
 <text x="48" y="310" fill="#526174" font-size="16" letter-spacing="0.35">Search &amp; ranking</text>
 <circle cx="216" cy="304" r="3" fill="#00AAFF"/>
 <text x="235" y="310" fill="#526174" font-size="16" letter-spacing="0.35">Reliable evaluation</text>
-<circle cx="412" cy="304" r="3" fill="#97CF26"/>
+<circle cx="412" cy="304" r="3" fill="#04E061"/>
 <text x="431" y="310" fill="#526174" font-size="16" letter-spacing="0.35">Applied research</text>
 </g>
 <g transform="translate(850 20) scale(4)">
-<circle cx="36" cy="27" r="5.7" fill="#965EEB"/>
-<circle cx="55.5" cy="30" r="12" fill="#00AAFF"/>
-<circle cx="32.5" cy="49.5" r="14.7" fill="#04E061"/>
-<circle cx="59" cy="53.5" r="9" fill="#FF4053"/>
+<circle class="avito-dot avito-purple" cx="36" cy="27" r="5.7" fill="#965EEB"/>
+<circle class="avito-dot avito-blue" cx="55.5" cy="30" r="12" fill="#00AAFF"/>
+<circle class="avito-dot avito-green" cx="32.5" cy="49.5" r="14.7" fill="#04E061"/>
+<circle class="avito-dot avito-red" cx="59" cy="53.5" r="9" fill="#FF4053"/>
 </g>
 </svg>

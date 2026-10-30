@@ -69,3 +69,13 @@ Pull request open as of October 2026.
 **Delivery** · FastAPI, Streamlit, PostgreSQL, Docker, GitHub Actions.
 
 <sub>Public projects are personal work. Reported results belong to the linked datasets and evaluation protocols.</sub>
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssivitskii/ssivitskii/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssivitskii/ssivitskii/output/github-snake.svg">
+  <img alt="Animated snake following my GitHub contribution calendar" src="https://raw.githubusercontent.com/ssivitskii/ssivitskii/output/github-snake.svg" width="100%">
+</picture>
+
+<sub>Updated daily · <a href="https://github.com/Platane/snk">Snake animation by Platane</a></sub>
