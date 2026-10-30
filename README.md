@@ -7,10 +7,10 @@
 </picture>
 
 <p align="center">
-  <a href="#about">About</a> &nbsp;·&nbsp;
-  <a href="#selected-work">Projects</a> &nbsp;·&nbsp;
-  <a href="#open-source">Open source</a> &nbsp;·&nbsp;
-  <a href="#contact">Contact</a>
+  <a href="#user-content-about">About</a> &nbsp;·&nbsp;
+  <a href="#user-content-selected-work">Projects</a> &nbsp;·&nbsp;
+  <a href="#user-content-open-source">Open source</a> &nbsp;·&nbsp;
+  <a href="#user-content-contact">Contact</a>
 </p>
 
 ## About
@@ -110,4 +110,4 @@ Pull request open as of October 2026.
   <a href="https://www.linkedin.com/in/ssivitskiy">LinkedIn</a>
 </p>
 
-<p align="center"><a href="#top">Back to top ↑</a></p>
+<p align="center"><a href="#user-content-top">Back to top ↑</a></p>
