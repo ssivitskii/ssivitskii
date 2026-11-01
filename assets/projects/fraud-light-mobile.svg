@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="440" viewBox="0 0 600 440" role="img" aria-labelledby="title desc">
-<title id="title">FraudGuard — 0.6634 average precision on the Elliptic test</title><desc id="desc">Offline AML on completed Bitcoin graph snapshots. Neighborhood features reach 0.6634 average precision versus 0.6337 for the local baseline on test steps 40–49. At a 1% review budget on the labelled cohort, all variants find 112 of 636 illicit cases.</desc>
+<title id="title">FraudGuard — 71.0% recall with seven-day label delay</title><desc id="desc">Fraud Detection Handbook synthetic transaction replay, 18 June–15 July 2018. With seven-day label delay, point-in-time history reaches 71.0% recall versus 24.1% for basic features at the same daily top-1% review budget. History finds 1,732 of 2,439 frauds in 2,698 end-of-day reviews. This is historical evaluation, not live blocking.</desc>
 <rect x="1" y="1" width="598" height="438" rx="20" fill="#FFF8F0" stroke="#EED8BE"/>
 <rect x="1" y="39" width="4" height="362" rx="2" fill="#B64D16"/>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
-<text x="32" y="38" font-size="16" fill="#B64D16" font-weight="700" letter-spacing="1">02 / FRAUD &amp; GRAPH AML</text>
+<text x="32" y="38" font-size="16" fill="#B64D16" font-weight="700" letter-spacing="1">02 / FRAUD DETECTION</text>
 <text x="30" y="89" font-size="36" fill="#3D2716" font-weight="750" letter-spacing="-1">FraudGuard</text>
-<text x="32" y="130" font-size="21" fill="#795B3D" font-weight="400" >Elliptic AML / graph features</text>
-<text x="32" y="165" font-size="18" fill="#795B3D" font-weight="400" >Gradient boosting / future-snapshot evaluation</text>
+<text x="32" y="130" font-size="21" fill="#795B3D" font-weight="400" >Fraud Detection Handbook / synthetic replay</text>
+<text x="32" y="165" font-size="18" fill="#795B3D" font-weight="400" >Point-in-time history / 7-day label delay</text>
 <path d="M32 187H568" stroke="#EED8BE"/>
-<text x="30" y="247" font-size="58" fill="#3D2716" font-weight="750" letter-spacing="-2">0.6634</text>
-<text x="32" y="285" font-size="22" fill="#B64D16" font-weight="650" >Average precision · Elliptic test</text>
-<text x="32" y="319" font-size="19" fill="#795B3D" font-weight="400" >0.6337 local baseline · +0.0297 AP</text>
-<text x="32" y="355" font-size="17" fill="#795B3D" font-weight="400" >Offline completed snapshots · 1% review on labelled cohort:</text>
-<text x="32" y="379" font-size="17" fill="#795B3D" font-weight="400" >all variants find 112 / 636 illicit cases.</text>
+<text x="30" y="247" font-size="58" fill="#3D2716" font-weight="750" letter-spacing="-2">71.0%</text>
+<text x="32" y="285" font-size="22" fill="#B64D16" font-weight="650" >Recall at a daily 1% review budget</text>
+<text x="32" y="319" font-size="19" fill="#795B3D" font-weight="400" >24.1% basic → 71.0% with history</text>
+<text x="32" y="355" font-size="17" fill="#795B3D" font-weight="400" >1,732 / 2,439 frauds found · 2,698 reviews.</text>
+<text x="32" y="379" font-size="17" fill="#795B3D" font-weight="400" >Synthetic replay · 7-day label delay · end-of-day review.</text>
 <text x="32" y="412" font-size="17" fill="#B64D16" font-weight="600" >Explore project  ↗</text>
 </g></svg>
