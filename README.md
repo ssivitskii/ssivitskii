@@ -46,10 +46,10 @@ RAG/LLM experiments and evaluation. **ITMO University**, BSc 2024–2028 (expect
 
 <a href="https://github.com/ssivitskii/FraudGuard">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssivitskii/ssivitskii/3069b01207f59c029362dc8cbac5a33532bd28a6/assets/projects/fraud-dark-mobile.svg">
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ssivitskii/ssivitskii/3069b01207f59c029362dc8cbac5a33532bd28a6/assets/projects/fraud-light-mobile.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssivitskii/ssivitskii/3069b01207f59c029362dc8cbac5a33532bd28a6/assets/projects/fraud-dark.svg">
-    <img src="https://raw.githubusercontent.com/ssivitskii/ssivitskii/3069b01207f59c029362dc8cbac5a33532bd28a6/assets/projects/fraud-light.svg" width="100%" alt="FraudGuard: 0.6634 average precision on the Elliptic test versus 0.6337 for the local baseline. Offline AML on completed Bitcoin graph snapshots, test steps 40–49. At a 1% review budget on the labelled cohort, all variants find 112 of 636 illicit cases.">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssivitskii/ssivitskii/f75eb3a6c171a4c1458b778e71c22f7c9dca449a/assets/projects/fraud-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ssivitskii/ssivitskii/f75eb3a6c171a4c1458b778e71c22f7c9dca449a/assets/projects/fraud-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssivitskii/ssivitskii/f75eb3a6c171a4c1458b778e71c22f7c9dca449a/assets/projects/fraud-dark.svg">
+    <img src="https://raw.githubusercontent.com/ssivitskii/ssivitskii/f75eb3a6c171a4c1458b778e71c22f7c9dca449a/assets/projects/fraud-light.svg" width="100%" alt="FraudGuard: 71.0% recall with point-in-time history versus 24.1% for basic features on Fraud Detection Handbook synthetic transactions. Seven-day label delay, daily top-1% review budget. History finds 1,732 of 2,439 frauds in 2,698 end-of-day reviews over 28 evaluation days.">
   </picture>
 </a>
 
@@ -71,7 +71,7 @@ RAG/LLM experiments and evaluation. **ITMO University**, BSc 2024–2028 (expect
   </picture>
 </a>
 
-Evaluation details: [Search & Ranking](https://github.com/ssivitskii/ds-bootcamp-avito/blob/main/docs/experiment-log.md) · [FraudGuard · Elliptic](https://github.com/ssivitskii/FraudGuard/blob/main/reports/elliptic.json) · [SpectraLab](https://github.com/ssivitskii/SpectraLab/blob/main/docs/line_classifier_v1.md) · [Movie Recommender](https://github.com/ssivitskii/Movie-Recommender/blob/main/reports/temporal_ml100k.json).
+Evaluation details: [Search & Ranking](https://github.com/ssivitskii/ds-bootcamp-avito/blob/main/docs/experiment-log.md) · [FraudGuard · Handbook replay](https://github.com/ssivitskii/FraudGuard/blob/c3900b6ae5b63cdf69afe01b89070efdaf18f146/reports/handbook-replay.json) · [FraudGuard · Elliptic](https://github.com/ssivitskii/FraudGuard/blob/main/reports/elliptic.json) · [SpectraLab](https://github.com/ssivitskii/SpectraLab/blob/main/docs/line_classifier_v1.md) · [Movie Recommender](https://github.com/ssivitskii/Movie-Recommender/blob/main/reports/temporal_ml100k.json).
 
 **More experiments** · [ExperimentLab](https://github.com/ssivitskii/experiment-lab)
 — causal inference and uplift; exploratory Criteo pilot ·
